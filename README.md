@@ -1,1 +1,2 @@
 # ME-620-Project
+This project implements a 2.5D Finite Element Method (FEM) simulation of vocal fold biomechanics. It models the vocal fold as a series of 2D transverse slices coupled longitudinally to simulate the 3D continuity of tissue fibers. The simulation is designed to analyze vibration patterns and compare healthy vs. paralyzed vocal fold states.
